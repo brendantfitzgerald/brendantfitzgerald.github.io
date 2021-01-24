@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>brendan &#8211; Yes, Fitz</title>
+	<atom:link href="/author/brendan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A Professional Site for Professional People</description>
+	<lastBuildDate>Sat, 23 Jan 2021 21:53:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/06/cropped-YesFitzico-32x32.png</url>
+	<title>brendan &#8211; Yes, Fitz</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Degoogling: Part 3 (Final?)</title>
+		<link>/2021/01/23/degoogling-part-3-final/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=degoogling-part-3-final</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Sat, 23 Jan 2021 16:50:25 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=273</guid>
+
+					<description><![CDATA[It&#8217;s now officially been a year since I switched from Gmail to Tutanota, and a handful of months since I left Drive for a Nextcloud instance. I&#8217;m still using Google Voice, Hangouts, Domains, Analytics, and Android. I don&#8217;t know that I can say &#8220;Mission Accomplished&#8221;, given that I still use Google services, but I&#8217;m much [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It&#8217;s now officially been a year since I switched from Gmail to Tutanota, and a handful of months since I left Drive for a Nextcloud instance. I&#8217;m still using Google Voice, Hangouts, Domains, Analytics, and Android.</p>
+
+
+
+<p>I don&#8217;t know that I can say &#8220;Mission Accomplished&#8221;, given that I still use Google services, but I&#8217;m much more comfortable with my ability to remove Google from my digital life.</p>
+
+
+
+<p>I intend to switch to an iPhone soon. I don&#8217;t like Apple&#8217;s stranglehold on the software, but their overtures towards individual privacy seem sincere.</p>
+
+
+
+<p>Truthfully, I don&#8217;t use cloud storage and e-mail as much as I used to. In the past 2.5 years, I moved, changed jobs, got married, and a global pandemic happened.</p>
+
+
+
+<p>I use Voice, Hangouts, and Domains frequently enough, and they&#8217;re good enough that I choose to continue to use them, even without the rest of the ecosystem.</p>
+
+
+
+<p>Analytics started out as an experiment to see how much data was captured without much effort. It&#8217;s not a tremendous amount, but every time I go to delete it, I start digging through the data. Some day, I&#8217;ll cast it into the fire.</p>
+
+
+
+<p>My last thought: Google doesn&#8217;t have strong network effects. In that way, it&#8217;s easy to leave. It sometimes feels like cutting off your nose to spite your face. Compare this to the recent mass push to move from WhatsApp (Facebook) to Signal (FOSS). I&#8217;ve read that in some parts of the world, it&#8217;s nearly impossible to live without WhatsApp. The cost to interact with anyone outside of that ecosystem is too high.</p>
+
+
+
+<p>So, inspired by that and other recent events, I think I&#8217;ll document a few forays into the Fediverse, a collection of self-hosted, interconnected, compatible social media services.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sample Yes, Fitz Newsletter</title>
+		<link>/2020/02/17/sample-yesfitz-newsletter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sample-yesfitz-newsletter</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 20:44:51 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=256</guid>
+
+					<description><![CDATA[Hi all, just wanted to give the unsubscribed an example of what we&#8217;d be sending out in the weekly (if relevant) newsletter. Post Digest Last week: The results of the Dad Economic Forecast for 2020 are out! Brendan breaks down what eight dads expect from the economy this year. Expectations were mixed, and there were [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size"><em>Hi all, just wanted to give the unsubscribed an example of what we&#8217;d be sending out in the weekly (if relevant) newsletter.</em></p>
+
+
+
+<h3>Post Digest</h3>
+
+
+
+<p class="has-regular-font-size">Last week: The results of the <a href="/2020/02/08/dad-economic-forecast-2020-results/">Dad Economic Forecast for 2020</a> are out! Brendan breaks down what eight dads expect from the economy this year. Expectations were mixed, and there were surprises, but the advice is all solid and non-contradictory.</p>
+
+
+
+<h3>Readings</h3>
+
+
+
+<p class="has-small-font-size"><a href="https://habd.as/post/living-without-sim-card/">Living Without a SIM Card</a> &#8211; Privacy, Technology (4 min)<br>I lived this life on my visits to Ireland in 2014 and 2015, but got a pay-as-you-go SIM this most recent trip. In cities and towns, it&#8217;s not inconvenient, especially if you have an internet-enabled phone number, like Google Voice, <a href="/2020/02/02/degoogling-2/">not that I&#8217;m endorsing that.</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://thereader.mitpress.mit.edu/an-economists-guide-to-potty-training/">An Economist&#8217;s Guide to Potty Training</a> &#8211; Economics (26 min)<br>An interesting read on aligning interests through the lens of potty training. Practical advice abounds. Outsource infrequent, labor-intensive jobs to experts. Makes me feel better about taking my car in for work. Also about not (yet) having to argue with a small, semi-rational human about toilet habits.</p>
+
+
+
+<p class="has-small-font-size"><a href="https://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html">Revised and much faster, run your own high-end cloud gaming service on EC2!</a> &#8211; Technology (20 min, but take your time!)<br>I&#8217;ve been looking into cloud options for desktop environments since I got started on AWS. Now there&#8217;s services like <a href="https://www.paperspace.com/vdi">Paperspace</a>, <a href="https://aws.amazon.com/workspaces/">AWS Workspaces</a>, and for my hip developer friends, <a href="https://www.macincloud.com/">MacinCloud</a>. As it turns out, being on a 10/2 DSL connection means I&#8217;m leaning away from Desktop environments and back into trying to live in the terminal.</p>
+
+
+
+<p class="has-small-font-size"><a href="https://alexdanco.com/2020/02/07/debt-is-coming/">Debt is Coming </a>&#8211; Economics (25 min)<br>Ever since watching <em>Shark Tank</em>, <em>The Profit</em>, and shows of that ilk, I assumed that selling equity was the only way to raise real money. But founders (usually) want to make a product, while investors (always) want to make money, and it&#8217;s not a given that these two things go hand-in-hand. It may be easier to extend the term of a loan from an FI than it is to convince your &#8220;angel&#8221; investor to not maximize profit by off-shoring production or cutting customer service. <br>So when will FIs start offering a way to finance software startups that don&#8217;t have collateral besides computers and code? Alex Danco suggests securitizing the user base. I don&#8217;t know if it&#8217;s a good idea, or if it would lead to a mini-financial crisis. But it&#8217;s interesting!</p>
+
+
+
+<h3>Coming Soon</h3>
+
+
+
+<p class="has-regular-font-size">More Degoogling adventures.<br>Using Excel Less Badly. Minimizing the damage from making Excel do things it shouldn&#8217;t do.<br>And more!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Going Gray(scale)</title>
+		<link>/2020/02/17/going-grayscale/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=going-grayscale</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Mon, 17 Feb 2020 20:40:20 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=263</guid>
+
+					<description><![CDATA[To my total lack of surprise, I’m not the first person to do this or write about it. Here’s a piece from Nellie Bowles in the New York Times, and another from Josh Hoffman on Medium. Both of these people set out with a goal in mind, but here&#8217;s my experience discovering this life hack. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size"><em>To my total lack of surprise, I’m not the first person to do this or write about it. Here’s a piece from<a href="https://www.nytimes.com/2018/01/12/technology/grayscale-phone.html"> Nellie Bowles in the New York Times</a>, and another from <a href="https://medium.com/@socialmediajosh/experiment-i-put-my-iphone-in-grayscale-mode-8a8736f26625">Josh Hoffman on Medium</a>. Both of these people set out with a goal in mind, but here&#8217;s my experience discovering this life hack.</em></p>
+
+
+
+<p>For the past four months, I’ve had my cell phone set to grayscale. Recently, I’ve done the same to my work and home computers that run Windows. While I can’t tell you what originally inspired me to do this (a fascination with e-ink displays, a hatred of fun, a traumatic event involving printer toner, who knows), I can tell you what I’ve noticed since making the change.<br><br>Many people I know, myself included, have compulsions about using the web. Bored? Go to Reddit/Facebook/Instagram/Twitter. I use Reddit as a means of avoiding thinking, especially if the thoughts are unpleasant. This compulsion has been reduced since going grayscale. I credit this to two sides of the same coin: <br>1. The thoughtless, addictive media is less enjoyable without color, and <br>2. The type of media that lends itself to grayscale is typically more thoughtful and/or interesting to share.&nbsp;<br><br>I’m not a zealot against color, but we are bombarded with it. All online content is manufactured, and color is another weapon in the arsenal of those who would sell you something. Red and yellow make people hungry, blue makes them calm, green is environmentally friendly, white is pure, black is death. <a href="https://www.esquire.com/entertainment/tv/news/a54699/why-cartoon-characters-are-yellow-simpsons/">Contrasting colors catch eyes.</a> Eyes are money on the internet.<br><br>But maybe that rings hollow to you. You’ve got an adblocker, you can spot &#8220;sponsored content&#8221; a mile away, and you <em>like</em> colorful photos. Of course you do. We all do. That’s the issue. Have you ever explained a sunset to someone that wasn’t there for it? Perhaps a better question is, have you ever had a sunset explained to you? The sun’s setting as I type this, I’ll try:<br><br><em>The sun’s just gone down behind the trees, backlighting them. The sky’s a gradient of orange to amber, then a pale yellow, before the hard line of the purple clouds that are rolling slowly in from the East.</em><br><br>What did you get out of that? What message was I trying to convey? Writers far better than I have written vivid, iconic descriptions of scenes like the one outside my window. But unlike them, and more like a photo of a sunset, my description lacks any further meaning. I am not setting the scene to establish verisimilitude for the rest of my writing as in a novel, nor am I using my language in a poetic way to illustrate a more complex feeling. Just like a colorful photo without context, it means very little as an idea.<br><br>Now, when I’m browsing the web, my monkey brain never gets the chance to be awed by the transition of colors. And because these eye-catchers are no longer working, it’s easier to scroll past them on the way to the next piece of media that retains value in grayscale.<br><br>Text, obviously retains its full meaning in black and white. Sound too is unaffected by a change in color. <a href="https://shop.anseladams.com/Ansel_Adams_Originals_s/71.htm">Photos</a> and <a href="https://www.fastcompany.com/3021327/the-addams-familys-living-room-was-pink">videos</a> that are well constructed and/or intended to be grayscale lose anywhere from very little to nothing. These formats also tend to be more concerned with communication of an idea as opposed to awe. Not that everything in black and white is worthwhile, the vast majority still isn’t. But without the awe of color, I find it much easier to filter.<br><br>Overall though, I find that I use the web less in total. When I do, I’m reading longer-form articles, and finding relevant information more quickly. An added side effect is that since most of my screen time is in grayscale, the colors of the real world are much more vibrant and meaningful. Almost like they don’t have to measure up to a high definition video of an <a href="https://youtu.be/0vKCLJZbytU?t=38">octopus dreaming</a>.<br><br>If you’re so inclined, here are guides on turning off color and going gray. I recommend it.</p>
+
+
+
+<ul><li><a href="https://www.imore.com/how-enable-grayscale-visual-accessibility-your-iphone-or-ipad">iOS</a></li><li><a href="https://www.droidviews.com/enable-grayscale-mode-on-any-android/">Android</a></li><li><a href="https://winaero.com/blog/enable-greyscale-mode-windows-10/">Windows 10</a></li><li><a href="https://alvinalexander.com/mac/make-mac-osx-display-black-and-white-grayscale">Mac OS X</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dad Economic Forecast 2020 Results</title>
+		<link>/2020/02/08/dad-economic-forecast-2020-results/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dad-economic-forecast-2020-results</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Sat, 08 Feb 2020 18:28:47 +0000</pubDate>
+				<category><![CDATA[Economics]]></category>
+		<guid isPermaLink="false">/?p=228</guid>
+
+					<description><![CDATA[Eight dads were kind enough to complete the survey. Given the short and unscientific nature of the questions and the small sample size, this is not to be taken as gospel (or investment advice), but I think there is some good information in here, and even Gallup had to start somewhere right? Let&#8217;s dig in. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Eight dads were kind enough to complete the survey. Given the short and unscientific nature of the questions and the small sample size, this is not to be taken as gospel (or investment advice), but I think there is some good information in here, and even Gallup had to start somewhere right? <br>Let&#8217;s dig in.</p>
+
+
+
+<h3>Simple Graphs, Question by Question</h3>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image.png" alt="" class="wp-image-230" width="598" height="359" srcset="/wp-content/uploads/2020/02/image.png 797w, /wp-content/uploads/2020/02/image-300x180.png 300w, /wp-content/uploads/2020/02/image-768x461.png 768w, /wp-content/uploads/2020/02/image-676x405.png 676w" sizes="(max-width: 598px) 100vw, 598px" /><figcaption> Five dads think the economy will get better, three dads disagree. </figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image-1.png" alt="" class="wp-image-231" width="585" height="441" srcset="/wp-content/uploads/2020/02/image-1.png 780w, /wp-content/uploads/2020/02/image-1-300x226.png 300w, /wp-content/uploads/2020/02/image-1-768x579.png 768w, /wp-content/uploads/2020/02/image-1-676x510.png 676w" sizes="(max-width: 585px) 100vw, 585px" /><figcaption> Half of the dads have a &#8220;high&#8221; appetite for risk, with the other half split evenly between &#8220;low&#8221; and &#8220;moderate&#8221; appetite. </figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image-2.png" alt="" class="wp-image-232" width="525" height="444" srcset="/wp-content/uploads/2020/02/image-2.png 700w, /wp-content/uploads/2020/02/image-2-300x254.png 300w, /wp-content/uploads/2020/02/image-2-676x572.png 676w" sizes="(max-width: 525px) 100vw, 525px" /><figcaption>A very similar split between Appetite for Risk, and Investment History Satisfaction</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image-3-1024x577.png" alt="" class="wp-image-233" width="600" height="360"/><figcaption>And again, the five-to-three dad split.</figcaption></figure>
+
+
+
+<p>Well, that all makes sense, doesn&#8217;t it? You could easily draw the correlations between the questions and come to the conclusion that risk-taking dads are very satisfied with their investments, or that optimist dads won&#8217;t be changing strategy. But I wouldn&#8217;t set you up like that unless it was to tell you that you&#8217;re wrong.<br>Let&#8217;s put away these graphs and look at the numbers.</p>
+
+
+
+<h3>The Numbers</h3>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image-4.png" alt="" class="wp-image-234" width="725" height="159" srcset="/wp-content/uploads/2020/02/image-4.png 967w, /wp-content/uploads/2020/02/image-4-300x66.png 300w, /wp-content/uploads/2020/02/image-4-768x168.png 768w, /wp-content/uploads/2020/02/image-4-676x148.png 676w" sizes="(max-width: 725px) 100vw, 725px" /></figure>
+
+
+
+<p>Despite the similar distributions, risk-taking dads are moderately  satisfied with their performance, while the low-risk dads are both very  satisfied.<br>I like that answers are more varied with the higher-risk dads.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image-5-1024x312.png" alt="" class="wp-image-235" width="768" height="234" srcset="/wp-content/uploads/2020/02/image-5-1024x312.png 1024w, /wp-content/uploads/2020/02/image-5-300x91.png 300w, /wp-content/uploads/2020/02/image-5-768x234.png 768w, /wp-content/uploads/2020/02/image-5-676x206.png 676w, /wp-content/uploads/2020/02/image-5.png 1042w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p>Here is where I start chalking things up to Dad-wisdom. Clearly, being &#8220;very satisfied&#8221; with your investment history doesn&#8217;t prescribe any course of action or economic outlook.<br>The &#8220;moderately satisfied&#8221; dads again agree that the economy will get better, and that their current strategy is the right one. Given that we&#8217;ve had the longest economic expansion in U.S. history (over a decade, and still going), they&#8217;ve had time to dial in the plan for growth.<br>The &#8220;not satisfied&#8221; dads are interesting, but it makes sense that they will either be changing their strategy, or battening down the hatches.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/02/image-7-1024x288.png" alt="" class="wp-image-237" width="768" height="216" srcset="/wp-content/uploads/2020/02/image-7-1024x288.png 1024w, /wp-content/uploads/2020/02/image-7-300x84.png 300w, /wp-content/uploads/2020/02/image-7-768x216.png 768w, /wp-content/uploads/2020/02/image-7-676x190.png 676w, /wp-content/uploads/2020/02/image-7.png 1137w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<p>And another view, but with Investment Satisfaction replaced by Appetite for Risk. I suspect that many investors (myself included) tend to be bad at self-evaluating how risky we&#8217;re being. I&#8217;d say I have a medium appetite for risk, given that I&#8217;m relatively young and even bother having any bonds in my portfolio. But we&#8217;re not here to talk about me. Let&#8217;s get to the real good part.</p>
+
+
+
+<h3>The Dad Wisdom</h3>
+
+
+
+<p>Before I share the Dad Wisdom that was shared with me, I just need to put it out there that I had to quantify some qualitative data for this survey, so the data and therefore little analysis that I did is not the full picture of the dads.</p>
+
+
+
+<p>Here&#8217;s the advice that the dads shared, in no particular order:</p>
+
+
+
+<p style="font-size:17px"><strong>B</strong>uy stocks from companies with a history of dividend growth. Dividend income will remain constant should the market dip and reinvestment value of dividend income will increase proportionately with the severity of the drop in market price.</p>
+
+
+
+<p style="font-size:17px"><strong>P</strong>ay off your debts. </p>
+
+
+
+<p style="font-size:17px"><strong>M</strong>oney you don&#8217;t invest is money unearned.</p>
+
+
+
+<p style="font-size:17px"><strong>M</strong>aybe buy more gold if it looks like Eliz. Warren will be elected. Put the gold under your mattress if it looks like Bernie will be elected.</p>
+
+
+
+<p style="font-size:17px"><strong>E</strong>xplore foreign stocks with political uncertainty in the US.</p>
+
+
+
+<p style="font-size:17px"><strong>D</strong>on&#8217;t get worked up if it dips. I expect the dip because elections are weird, but I don&#8217;t expect anything permanent. If you need to pull money out of investments this year, don&#8217;t put it in something that&#8217;s got decent dip potential. If you don&#8217;t, don&#8217;t worry about this year.</p>
+
+
+
+<p style="font-size:17px"><strong>I</strong>nvest in small businesses directly, if you can.</p>
+
+
+
+<p style="font-size:17px"><strong>B</strong>e a contrarian &#8211; think about 2nd and 3rd degree impacts of future trends and uncertainties. Continually look for data and information that will challenge your status quo decisions.</p>
+
+
+
+<p>Thanks again to all the dads who participated. I&#8217;m looking forward to seeing how things shake out over the coming year, and hearing from you all again in 2021.</p>
+
+
+
+<p>And to everyone else, remember, past dad performance is not indicative of future dad results. Take this opportunity to call your dad and talk to him about his portfolio.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Degoogling, Less and Less Intimidating.</title>
+		<link>/2020/02/02/degoogling-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=degoogling-2</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Sun, 02 Feb 2020 11:48:28 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=223</guid>
+
+					<description><![CDATA[What&#8217;s changed. Migrated from Gmail to Tutanota. Using addresses on my own domain is so empowering. Even if I want to move mail services again, as long as I keep the domain, I&#8217;ll never have to send out another &#8220;I changed my address&#8221; message. I&#8217;ve replicated the &#8220;tab&#8221; functionality of Gmail&#8217;s inbox with alias addresses [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>What&#8217;s changed.</h2>
+
+
+
+<p><em>Migrated from Gmail to Tutanota. </em><br>Using addresses on my own domain is so empowering. Even if I want to move mail services again, as long as I keep the domain, I&#8217;ll never have to send out another &#8220;I changed my address&#8221; message. <br>I&#8217;ve replicated the &#8220;tab&#8221; functionality of Gmail&#8217;s inbox with alias addresses (e.g. myname.subscriptions.xx@yesfitz.com). It needs some tweaks to bring it more in-line with Gmail&#8217;s delineations. I imagine a lot of thinking went into them doing it the way they did, and who am I to question that?</p>
+
+
+
+<p><em>Stopped using Google Authenticator.</em> <br>I was using Google&#8217;s Authenticator for 2FA. Now I&#8217;m using Authy by Twilio. Because it&#8217;s based on a shared secret between the service you&#8217;re logging into and the app on your phone, it shouldn&#8217;t matter which app you&#8217;re using. But then why risk using Google&#8217;s version?</p>
+
+
+
+<p><em>Started using DuckDuckGo.</em> <br>This is a tough one. Since I stopped using AltaVista (c. 2003), I&#8217;ve searched with Google. That&#8217;s a very long time being initiated into the Google way of searching. That&#8217;s a pain point for DuckDuckGo. You don&#8217;t get the same results with the same query. <br><br>However, about five years ago, Google started getting a little too fresh with my queries. Questioning my use of quotation marks, ignoring words in the query, allowing (what it thought were) synonyms of words in my query to register as results. While I grew up learning to talk to the Google search bar, you can&#8217;t have a productive relationship with a tool that doesn&#8217;t respect you as the user.<br><br>With that fresh mindset, I&#8217;m feeling much more excited about DuckDuckGo. And if I need to go back to Google, I can just add &#8220;!g&#8221; to my query in DuckDuckGo, and it brings me to the Google results. And <a href="https://duckduckgo.com/bang">there&#8217;s about 13,504 more &#8220;bangs&#8221;</a> you can use with DuckDuckGo.</p>
+
+
+
+<p><em>Moved over to Firefox from Chrome.</em> <br>It was installed on most of my devices. Now it&#8217;s installed and the default on all of them. I&#8217;m using the add-ons <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/">Privacy Badger</a> from EFF, <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">uBlock Origin</a> by Raymond Hill, and <a href="https://addons.mozilla.org/en-US/firefox/addon/amp2html/">Redirect AMP to HTML</a> by Daniel Aleksandersen. Still need to get Firefox working at my office computer.</p>
+
+
+
+<p><em>I&#8217;m writing this from Firefox on the Linux Mint partition on my Chromebook.</em> <br>Sure, it doesn&#8217;t have audio firmware or hotkey support. And that&#8217;s a pretty big issue. Otherwise though, I think I&#8217;m ready to move over to Linux whole-hog.</p>
+
+
+
+<h2>What hasn&#8217;t changed. Yet.</h2>
+
+
+
+<p><em>Still using Google Domains as a registrar.</em> <br>Looking at the prices, the horror stories, and my own appetite for degoogling, I&#8217;ll stick with Google for now. I suppose I could use Route 53 via Amazon Web Services. But that&#8217;s for another time.</p>
+
+
+
+<p><em>Using Google Analytics</em>. <br>Luckily, I&#8217;ve yet to have any visitors from the EU since using Analytics, so no one with standing can prove I&#8217;m violating GDPR. I remember someone showing off their privacy-protecting analytics platform on Hacker News a few weeks ago. I&#8217;ll be looking into that soon.</p>
+
+
+
+<p><em>Using Hangouts/Google Voice.</em> <br>I have a Google Voice number. It&#8217;s been incredibly helpful for international calling, as well as being able to text over data connections. Unlike e-mail, finding another SMS-enabled VoIP provider has not been easy or cheap. But I&#8217;m comfortable enough with it for now.</p>
+
+
+
+<p><em>Using an Android Phone</em>. <br>I&#8217;ll call it serendipity that I cracked the glass screen on the otherwise all-plastic phone since I wrote <a href="/2019/12/22/degoogling-1/">the initial degoogling post</a>. While it&#8217;s still 95% usable, it gives me an excuse to look for a hack-friendly phone. I&#8217;ve read good things about the <a href="https://www.gsmarena.com/xiaomi_mi_a3-9769.php">Xiaomi Mi A3</a>. And it&#8217;s cheap enough that I won&#8217;t feel too bad if it became relegated to a car computer. God knows the screen is big enough.<br><br>In the meantime, I&#8217;ve installed F-Droid, a free/libre alternative to the Google Play Store. But it&#8217;s not very helpful. There&#8217;s a lot of flashlight apps, weather apps, and ugly, simple games.<br>I wish that everyone could agree that libre (free as in speech), free (free as in beer), and quality are the legs of a three-legged stool problem. I honestly enjoy paying for quality products and services. It makes me feel good to be able to materially support the producer, no matter if it&#8217;s an independent programmer, or a $10 billion multinational. This is a tired realization, but we <em>do</em> pay money for every private service we use online. If you don&#8217;t pay them with money, you&#8217;re the one being used. <br>Caveat: you can still pay money and be used.</p>
+
+
+
+<h2>Takeaways</h2>
+
+
+
+<p><em>So far, degoogling isn&#8217;t as hard as I feared.</em> <br>Some would argue that I haven&#8217;t actually degoogled, given that I&#8217;m still willingly using Google services. But it&#8217;s mostly been a proof-of-concept on leaving a walled-garden. I knew that leaving was possible, but I wasn&#8217;t sure how difficult it would actually be in-practice. The Google services I still use are either on the chopping block, or I&#8217;ve looked at alternatives and decided that Google is better.<br><br><em>I&#8217;d recommend everyone get their own domain.</em> <br>Even if you register it with Google, even if you have no interest in running a website, even if you just forward the e-mail address to your Gmail account. Having your own domain gives you the option to go anywhere. $12 a year is a small price to pay for the ability to walk away.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dad Economic Forecast</title>
+		<link>/2020/01/26/dad-economic-forecast/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dad-economic-forecast</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Sun, 26 Jan 2020 17:44:30 +0000</pubDate>
+				<category><![CDATA[Economics]]></category>
+		<guid isPermaLink="false">/?p=207</guid>
+
+					<description><![CDATA[On January 26th, I had the idea for a new economic predictor that averages out that ever-illusive Dad Wisdom. Dad Wisdom seems to come at a great cost though. Blindspots that are themselves in blindspots. Dads don&#8217;t know what they don&#8217;t know, but you can&#8217;t tell them that. So, my thinking is that by aggregating [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">On January 26th, I had the idea for a new economic predictor that averages out that ever-illusive Dad Wisdom. Dad Wisdom seems to come at a great cost though. Blindspots that are themselves in blindspots. Dads don&#8217;t know what they don&#8217;t know, but you can&#8217;t tell them that.</p>
+
+
+
+<p class="has-small-font-size">So, my thinking is that by aggregating Dad Wisdom on the future of the Economy, we should be able to either a) make sound investments in the coming year or b) find out the shared blindspots of Dads.</p>
+
+
+
+<p class="has-small-font-size">The questions are as follows:</p>
+
+
+
+<ol><li>Do you think the economy will get better or worse in the next 12 months?</li><li>Any changes you&#8217;re planning on making to your investments in the next 6 months?</li><li>How would you describe your appetite for risk?</li><li>How satisfied are you with your investment history?</li><li>Any other advice for the next 12 months?</li></ol>
+
+
+
+<p class="has-small-font-size">I anticipate a lot of fun Dad answers to the last question, and will be quantifying the free-form answers to questions 3 and 4 as I see fit.</p>
+
+
+
+<p class="has-small-font-size">As for the sample of Dads asked, they will be selected based on the following criteria:</p>
+
+
+
+<ul><li>Is a Dad.</li><li>Has investments.</li><li>I either know them or at least one of their children.</li></ul>
+
+
+
+<p class="has-small-font-size">The results will be anonymized prior to publishing.</p>
+
+
+
+<p class="has-small-font-size">I am very excited.</p>
+
+
+
+<p>For the ease of collecting the responses, <a href="/dad-economic-survey/">I&#8217;ve created a Google Form</a>. Which tells you about how well <a href="/2019/12/22/degoogling-1/">my efforts of De-Googling</a> have been going.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Degoogling, An Intimidating Proposition</title>
+		<link>/2019/12/22/degoogling-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=degoogling-1</link>
+		
+		<dc:creator><![CDATA[brendan]]></dc:creator>
+		<pubDate>Sun, 22 Dec 2019 20:41:06 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=161</guid>
+
+					<description><![CDATA[Why I&#8217;m trying to degoogle. HTTPS decryption/reencryption awoke something in me.In early November, I discovered that it&#8217;s common for workplaces to decrypt all web traffic, inspect it, and reencrypt it before delivering it to the user. While fully acknowledging that using someone else&#8217;s network means you shouldn&#8217;t have any expectation of privacy, this explicit eavesdropping [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Why I&#8217;m trying to degoogle.</h2>
+
+
+
+<p><em>HTTPS decryption/reencryption awoke something in me.</em><br>In early November, I discovered that it&#8217;s common for workplaces to decrypt all web traffic, inspect it, and reencrypt it before delivering it to the user. While fully acknowledging that using someone else&#8217;s network means you shouldn&#8217;t have any expectation of privacy, this explicit eavesdropping is different than a possible risk.<br>I&#8217;ll write more of my thoughts on this strategy for information security in a separate post, but it made me start thinking seriously about my privacy again.</p>
+
+
+
+<p><em>Youtube users being banned and unable to access e-mail.</em><br>Also in early November, YouTube users were banned for spamming emojis in Markiplier&#8217;s stream, despite the fact that he requested them to. No big deal, right? <br>It wouldn&#8217;t have been, except that their entertainment-purpose YouTube account was also tied to their more essential services like Gmail, Google Calendar, Google Docs, etc. It would be like if Verizon could shut off your cell phone because you talked in a movie theater. The convenience of having one service provider creates a dangerous concentration of power.<em><br></em><br><em>Reading about AMP.</em><br>AMP is a Google-endorsed framework for creating webpages that load quickly on mobile. AMP pages will rank much higher in Google searches than their non-AMP counterparts. This is probably more of a complaint about the concentration of power in search, and Google has used their sway for good before, (ranking HTTPS pages higher), but AMP has more to do with control than security or efficiency. You need to play by Google&#8217;s rules, and in return, they&#8217;ll give you higher ranking, but not much else. Your content effectively belongs to Google, but they&#8217;ll keep your brand on it, as long as you do all the work. And if you don&#8217;t, your competition will.</p>
+
+
+
+<p><em>Virtualizing my home server.</em><br>Finally, a positive reason for degoogling. I&#8217;ve been slowly building out the home server for Annie and I. What started out as a simple file server, now runs Plex, a home Wiki, and LibreNMS, all on one Ubuntu instance. Now I need to fix my mess. Once I started planning out how to virtualize the server, it inspired me to start self-hosting as much as I could.</p>
+
+
+
+<h2>How I&#8217;m succeeding.</h2>
+
+
+
+<p><em>Decided on an email provider.</em><br>Self-hosted: Absolutely no redundancy, and a lot of work for at most two people to use.<br>Fastmail: Australian company. Don&#8217;t want to support a country that<br>explicitly flouts data privacy. (Unironically written from America.)<br>Protonmail: Expensive for e-mail without Calendar or Contacts<br>management.<br>Tutanota: Just right. Affordable, with Calendar and Contacts.<br><br>Worst case scenario, I can always export my data and take my e-mail address to a different provider.</p>
+
+
+
+<p><em>Started making a conscious effort to use Firefox and Linux.</em><br>My Mint partition on my Chromebook is all good to go. On Windows and OS X, I&#8217;m getting better about using Firefox instead of Chrome, although it can be difficult at work because there&#8217;s less emphasis to support Firefox internally.</p>
+
+
+
+<p><em>Donated to Mozilla, Wikipedia, EFF, FreeSoftwareFoundation, some others.</em><br>December 3rd is Giving Tuesday. I try to donate to meaningful projects once a year. Less helpful than committing to a year of donations, but I like to consider it paying for their products that I used in the last year. That way, if they do something I disagree with in the new year, I can adjust my payment accordingly.</p>
+
+
+
+<h2>How I&#8217;m failing.</h2>
+
+
+
+<p><em>I&#8217;m writing this on my Chromebook.</em><br>Because I&#8217;m still on Google services, it&#8217;s a lot easier to open up the Chromebook into ChromeOS, check my mail, do my Duolingo, and hop back off.</p>
+
+
+
+<p><em>I&#8217;m still on Gmail.</em><br>Things have been pretty busy at work, and I want to make sure that I have the time and energy to dedicate to degoogling before I go distributing my new e-mail address.</p>
+
+
+
+<p><em>I&#8217;m very nervous about moving to a google-free Android.</em><br>Sure, I could buy an iPhone. But I like Android. I like the variety of hardware, and the customization of the interface. If I can reliably move to a LineageOS phone, I&#8217;ll gladly do it. I&#8217;m already running an older Sony phone, pre-fingerprint reader even, so I won&#8217;t miss any features added in the past four years, but I&#8217;d still like to be able to call, text, and e-mail.</p>
+
+
+
+<h2>Takeaways.</h2>
+
+
+
+<p><em>Degoogling is really hard, which in a way makes it worth it. </em><br>That may sound silly, but in a way, it feels like trying to kick an addiction. I don&#8217;t want to <em>have</em> to use Google services. So, after I recreate a similar environment without Google, I&#8217;ll be able to decide whether or not the convenience of their service is worth the price of my privacy.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
