@@ -11,10 +11,10 @@ Track every conversation with a search, some scrolling, and a few clicks of a mo
 
 It's going to revolutionize how you do things, and of course, revolutions come cheap and smooth.
 
-The real issue though, is that many businesses revolutionize their processes, without understanding their current state.
+However, many businesses revolutionize their processes without understanding their current state.
 G.K. Chesterton already put "change for change's sake" [better than I ever could.](https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence)
 
-##  (Mis)understanding the current state
+##  (Mis)understanding the current state of the process
 
 I don't need to tell you about your business. You're an executive, of course you know how the business works!
 
@@ -42,11 +42,11 @@ The solution to understanding complex systems is to simplify the **mechanisms**,
 
 *Simplified, there are only two mechanisms, communication and storage. Email and Excel.*
 
-Describing the process in terms of Email and Excel provides a common language to understand the process.
+Describing the process in terms of Email and Excel provides a common language to understand the processes.
 It eliminates vendor-specific dependencies and gets right to the meat of what needs to happen at every step.
 
 ## Back to ordering parts from the supplier.
-In reality, ordering parts is mostly automated by LegacyTech.exe running on a workstation.
+In the reality of our fictional example, ordering parts is mostly automated by LegacyTech.exe running on a workstation at the factory office.
 But "use LegacyTech.exe to order parts" doesn't tell you much about the process.
 
 What if we limited our mechanisms to Email and Excel?
@@ -57,10 +57,10 @@ What if we limited our mechanisms to Email and Excel?
 4. The Ordering Specialist contacts the supplier (via whatever means) and orders the parts.
 5. The Ordering Specialist adds the Order Number and Status to OrderList.xlsx and emails the Production Manager with the Status.
 
-"But that's going backwards! We have LegacyTech.exe!" you cry, seeing yet not understanding.
+"But that's going backwards! The Production Manager just uses LegacyTech.exe!" you cry, seeing yet not understanding.
 
 Now you know the important parts of what LegacyTech.exe is doing. 
-Do the same for every process in the business, and you have the baseline of how to run your business with two programs.
+Do the same for every process in the business, and you have a baseline of how to run your business with two programs.
 
 When the AtlasForce365 sales process gets started, you can hand them that flow chart and have them pitch their solutions.
 Assuming you decide to implement their software, you can manage the changes, because you know what you're changing.
