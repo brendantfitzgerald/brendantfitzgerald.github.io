@@ -40,7 +40,7 @@ I see two ways out of this.
 
 However, both of these options rely on a willingness to enforce our own definitions of quality on the world around us, as either designers or consumers.  
 
-Given the cycle since the 1960s of counter-cultural movement to neutering by social appeasement so as not to risk economic upheaval (see Occupy Wall Street),  
+Given the cycle since the 1960s of counter-cultural movement to neutering by social appeasement so as not to risk economic upheaval (see Occupy Wall Street),
 and the increasing frequency and reach of these movements, I don't expect the educated designer to dare imposing their will on their users.  
 And given the rise of obesity and drug use, I don't expect that consumers as a whole are eager to impose standards upon themselves.  
 
