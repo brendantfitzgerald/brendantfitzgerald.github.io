@@ -42,7 +42,7 @@ However, both of these options rely on a willingness to enforce our own definiti
 
 Given the cycle since the 1960s of counter-cultural movement to neutering by social appeasement so as not to risk economic upheaval (see Occupy Wall Street),
 and the increasing frequency and reach of these movements, I don't expect the educated designer to dare imposing their will on their users.  
-And given the rise of obesity and drug use, I don't expect that consumers as a whole are eager to impose standards upon themselves.  
+And given the rise of obesity and drug use, I don't expect that consumers as a whole are eager to impose standards upon themselves or each other.  
 
 I fear that unobtrusive design has laid bare the ugliness of our media, our communities, and ourselves, and that our solution has been to eradicate the  
 concept of ugliness and refuse the possibility of objective quality.  
