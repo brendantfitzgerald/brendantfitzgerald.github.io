@@ -44,7 +44,7 @@ Given the cycle since the 1960s of counter-cultural movement to neutering by soc
 and the increasing frequency and reach of these movements, I don't expect the educated designer to dare imposing their will on their users.  
 And given the rise of obesity and drug use, I don't expect that consumers as a whole are eager to impose standards upon themselves or each other.  
 
-I fear that unobtrusive design has laid bare the ugliness of our media, our communities, and ourselves, and that our solution has been to eradicate the  
+I fear that unobtrusive design has laid bare the ugliness of our media, our communities, and ourselves, and that our solution has been to eradicate the 
 concept of ugliness and refuse the possibility of objective quality.  
 
 I don't know what the answer is, but I worry someone else might.  
