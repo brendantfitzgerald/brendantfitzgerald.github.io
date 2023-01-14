@@ -21,7 +21,7 @@ v1.1.1 added a check for diff size and sapient consciousness status.[^3]
 __Make changes to merge parameters in a test universe first.__  
 
 ```.dream()``` can also be a valid method for non-sapient objects.  
-This usually isn't a problem, but some forms of Calcium objects can ```.dream()``` and are ```.conscious```, and don't have a ```.sleep()``` method.  
+This usually isn't a problem, but some forms of Calcium objects can ```.dream()``` and are ```.conscious```, and don't have a ```.sleep()``` method, so will never be ```!objectID.conscious```.  
 Besides error messages in the logs, we haven't seen any issues merging these objects.  
 
 __HUDD__ v1.2.4 added a check for ```.observed``` and ```size``` status on merged objects.  
