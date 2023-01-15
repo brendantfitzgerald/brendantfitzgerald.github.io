@@ -24,9 +24,10 @@ __Make changes to merge parameters in a test universe first.__
 This usually isn't a problem, but some forms of Calcium objects can ```.dream()``` and are ```.conscious```, and don't have a ```.sleep()``` method, so will never be ```!objectID.conscious```.  
 Besides error messages in the logs, we haven't seen any issues merging these objects.  
 
-__HUDD__ v1.2.4 added a check for ```.observed``` and ```size``` status on merged objects.  
+__HUDD__ v1.2.4 added a check for ```.observed``` and ```size``` status on merged objects.[^4]  
 Anything larger than a lepton defaults to the location of the ```.observed``` object, but special considerations have to be made for smaller particles.  
 
 [^1]: https://en.wikipedia.org/wiki/Black_hole#History
 [^2]: https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu#Etymology
 [^3]: Calling ```.dream()``` for a large diff on sapient objects where ```objectID.conscious``` led to [massive changes in sapient group structure](https://en.wikipedia.org/wiki/Religion)
+[^4]: https://en.wikipedia.org/wiki/Louis_de_Broglie#Matter_and_wave%E2%80%93particle_duality
