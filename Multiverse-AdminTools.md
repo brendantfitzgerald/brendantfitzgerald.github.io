@@ -41,11 +41,22 @@ Anything larger than a lepton defaults to the location of the ```.observed``` ob
 Since we now provide support and resources outside of physics, we've had more requests for more granular and ongoing universal manipulations, usually centered around sapient group structures.  
 As long as they have the proper forms signed by the proper people, there's not much we can do.  
 See if we have a script in our repository, and scope the change.  
-__Interfere.sh__ has options for ```MakeWeather()``` and ```MakeSapient()```. That should handle 80% of the requests that come in.  
+__Machina.sh__ has options for ```MakeWeather()``` and ```MakeSapient()```. That should handle 80% of the requests that come in.  
 
-Left to go on long enough, sapients develop 
+Left to go on long enough, sapient objects start testing the limits of the instance's resources.[^5]  
+We've come a long way in optimizing instance resource utilization, but sometimes, sapient objects need to be dissuaded or at least stalled[^6] while 
+we move the instance to a machine with more resources.  
+If you can't get __Machina.sh__ to reduce resource utilization, it may be necessary to terminate all of the sapient objects responsible[^7], or even the entire instance.  
+Left unchecked, sapient objects could cause an overflow in the memory buffer and affect other instances.  
+Call your supervisor and the instance owner before doing so.  
+__You don't need permission, but you will have to explain your course of action.__  
+
+
 
 [^1]: https://en.wikipedia.org/wiki/Black_hole#History
 [^2]: https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_vu#Etymology
 [^3]: Calling ```.dream()``` for a large diff on sapient objects where ```objectID.conscious``` led to [massive changes in sapient group structure](https://en.wikipedia.org/wiki/Religion)
 [^4]: https://en.wikipedia.org/wiki/Louis_de_Broglie#Matter_and_wave%E2%80%93particle_duality
+[^5]: https://en.wikipedia.org/wiki/Large_Hadron_Collider#Purpose
+[^6]: https://en.wikipedia.org/wiki/Tower_of_Babel
+[^7]: https://en.wikipedia.org/wiki/Genesis_flood_narrative
