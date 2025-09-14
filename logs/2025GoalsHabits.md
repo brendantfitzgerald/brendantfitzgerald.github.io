@@ -3,7 +3,7 @@
 * Fix all of our pinball machines in the garage.
 
 ## House
-* Fix the front porch steps (and waterproof the problem areas.
+* Fix the front porch steps (replace the rotting wood and caulk the seams.)
 * Get the house and garage back in order (have a set place for everything.)
 * Insulate the front porch floor and ceiling.
 * Hang a shower curtain in the basement.
