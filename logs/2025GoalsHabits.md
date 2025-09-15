@@ -13,6 +13,7 @@
 ## Personal
 * Publish writing on YesFitz.
 * Relearn Spanish up through past tense.
+* Finish Leave-a-Note proof-of-concept.
 
 # Habits
 * Work out 3 times a week.
